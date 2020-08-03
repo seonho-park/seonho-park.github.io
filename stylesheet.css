@@ -100,6 +100,12 @@ papertitle {
   font-weight: 700
 }
 
+abstract {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: 700
+}
+
 name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 32px;
